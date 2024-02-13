@@ -1,0 +1,9 @@
+# Exclude generated XML files
+output.xml
+
+# Exclude generated report files
+report.html
+log.html
+
+# Exclude hidden files starting with a dot
+.hypothesis
